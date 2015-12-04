@@ -3,3 +3,5 @@ On master branch: test rebase 1
 On test1 branch: test rebase 1
 
 On master branch: test reset HEAD
+
+On master branch: test checkout branch from master branch HEAD~1
