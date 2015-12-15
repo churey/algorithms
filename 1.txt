@@ -4,4 +4,6 @@ On test1 branch: test rebase 1
 
 On master branch: test reset HEADfewafewafewfewafewa
 
-On master branch: test checkout branch from master branch HEAD~1111111fewfewaewa
+On master branch: test checkout branch from master branch
+
+On test branch: test push on test branch
