@@ -1,3 +1,5 @@
 Master: test conflict first file
 
 Test conflict: test conflict, update on test_conflict branch
+
+Master: userB update file for testing conflict
