@@ -1,1 +1,3 @@
 Master: test conflict first file
+
+Master: test conflict, update on master branch
