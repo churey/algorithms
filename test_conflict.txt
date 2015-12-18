@@ -1,3 +1,2 @@
-Master: update the same line content on local 'master' branch
-
+Master: test conflict first file, Test conflict: update the same line content on local   Play together!
 Test conflict: test conflict, update on test_conflict branch
