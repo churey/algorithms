@@ -1,3 +1,3 @@
-Master: test conflict first file
+Master: update the same line content on local 'master' branch
 
 Test conflict: test conflict, update on test_conflict branch
